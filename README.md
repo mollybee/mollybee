@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! Molly Brown here. 👋 (She/Her)
 
-<!--
-**mollybee/mollybee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently reside and work in Columbus, OH, but am always open to adventure. 
 
-Here are some ideas to get you started:
+🌱At the moment, I'm working through the Web Development Track at Lambda School, building on my skills in HTML, CSS, JavaScript, Python, React, Node.js, and Redux, to name a few.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯I would LOVE to collaborate on any humanitarian efforts. The leading drive for my developer journey has been to come out the other end with some set of skills that I can use to make the world a better place. For the people who live on it, and for the Earth herself. 
+
+💬 Ask me about my Acrylic Paintings. I might have a passion for all things science, techonology and innovation, but my side love is all things art and literature. 
+
+⚡ Fun fact: I identify as a strong woman, a feminist, a nature-witch, and bisexual married mother of three ambitious daughters. I'm also open to ANY good book recommendations! 
+
+
